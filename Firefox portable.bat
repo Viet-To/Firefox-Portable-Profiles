@@ -1,5 +1,6 @@
 @echo off
-REM Script Version 1.0.0 2024-09-01
+REM Script Version 1.0.1 2024-09-01
+REM https://github.com/Viet-To/Firefox-Portable-Profiles/tree/main
 
 REM This script is to make regular Firefox be portable, as well as launch the profile manager. 
 REM This is not a 100% sandbox. Firefox will still read/write Registry as well as several folders, leaving a trail.
